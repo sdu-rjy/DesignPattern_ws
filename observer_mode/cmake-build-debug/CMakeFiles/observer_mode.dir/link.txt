@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/observer_mode.dir/main.cpp.o  -o observer_mode 
